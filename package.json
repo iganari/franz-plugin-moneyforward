@@ -1,12 +1,12 @@
 {
-  "name": "teams.microsoft",
+  "name": "moneyforward",
   "version": "1.0.0",
   "description": "mf",
   "main": "index.js",
-  "author": "iganari <XXX@gmail.com>",
+  "author": "ciganari <XXX@gmail.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://moneyforward.com/",
+    "serviceURL": "https://moneyforward.com/users/sign_in",
     "serviceName": "moneyforward",
     "message": "",
     "popup": [],
